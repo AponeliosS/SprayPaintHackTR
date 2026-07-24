@@ -1,0 +1,24 @@
+{
+  "name": "AutoSprayFullLua",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "AutoSpray": {
+        "$path": "src/ReplicatedStorage/AutoSpray"
+      }
+    },
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
+    "ServerStorage": {
+      "AutoSprayImages": {
+        "$path": "src/ServerStorage/AutoSprayImages"
+      }
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/StarterPlayer/StarterPlayerScripts"
+      }
+    }
+  }
+}

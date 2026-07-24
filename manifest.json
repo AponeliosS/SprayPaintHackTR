@@ -1,0 +1,8 @@
+{
+  "name": "AutoSpray Full Lua",
+  "version": "1.0.0",
+  "sharedMain": "src/ReplicatedStorage/AutoSpray/Main.lua",
+  "serverEntry": "src/ServerScriptService/AutoSprayServer.server.lua",
+  "clientEntry": "src/StarterPlayer/StarterPlayerScripts/AutoSprayClient.client.lua",
+  "plugin": "plugins/AutoSprayImporter.plugin.lua"
+}
